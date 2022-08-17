@@ -27,19 +27,19 @@
 
 1. 创建项目
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817201107150.png" alt="image-20220817201107150" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035551.png" alt="image-20220817201107150" style="zoom:80%;" />
 
 2. 视图设计
 
    进行页面布局设计
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817201157807.png" alt="image-20220817201157807" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035552.png" alt="image-20220817201157807" style="zoom:80%;" />
 
 3. 逻辑实现
 
    【注意】：微信已更新获取用户信息的api，现在使用`wx.getUserProfile`方法
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817202218275.png" alt="image-20220817202218275" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035553.png" alt="image-20220817202218275" style="zoom:80%;" />
 
    获取到用户信息以后，动态设置`name`与`image`元素，实现目的效果
 
@@ -51,15 +51,15 @@
 
 【点击前】
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817202337620.png" alt="image-20220817202337620" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035554.png" alt="image-20220817202337620" style="zoom:80%;" />
 
 【点击】
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817202353151.png" alt="image-20220817202353151" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035555.png" alt="image-20220817202353151" style="zoom:80%;" />
 
 【点击后】
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220817202407200.png" alt="image-20220817202407200" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208172035556.png" alt="image-20220817202407200" style="zoom:80%;" />
 
 ## 四、问题总结与体会
 
