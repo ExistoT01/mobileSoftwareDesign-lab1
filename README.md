@@ -8,7 +8,7 @@
 | ------------------ | ------------------------------------------------------------ |
 | 本实验属于哪门课程 | 中国海洋大学22夏《移动软件开发》                             |
 | 实验名称           | 实验1：第一个微信小程序                                      |
-| 博客地址           | [Click me if you can](www.existoT01.top)                     |
+| 博客地址           | [Click me if you can](http://existot01.top/)                 |
 | Github仓库地址     | [You won't miss that](https://github.com/ExistoT01/mobileSoftwareDesign-lab1) |
 
 （备注：将实验报告发布在博客、代码公开至 github 是 **加分项**，不是必须做的）
